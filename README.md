@@ -1,2 +1,1 @@
-# script-
-los mejores 
+loadstring(game:HttpGet("https://pastefy.app/QymV3yqI"))(
